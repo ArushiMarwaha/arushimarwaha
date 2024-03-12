@@ -46,6 +46,20 @@ At the core of executing Market Basket Analysis lies the renowned "Apriori algor
 
 **Results:** Implementing the generated association rules has enabled us to strategically enhance various aspects of our retail operations. By optimizing product placement, implementing cross-selling strategies, and tailoring promotions based on identified patterns, we have successfully elevated the shopping experience for customers. This data-driven approach has not only increased customer engagement but has also translated into a significant boost in sales, showcasing the tangible impact of informed retail strategies on our overall business performance.
 
+### Page View Time Series Visualizer
+**Code:** [`Time Series Visualizer`](https://github.com/ArushiMarwaha/Time-Series-Visualizer)
+
+**Goal:** The primary goal of this project is to visualize time series data using various chart types, including line charts, bar charts, and box plots. Leveraging Pandas, Matplotlib, and Seaborn, the objective is to analyze and illustrate the number of daily page views on the freeCodeCamp.org forum from May 9, 2016, to December 3, 2019. The visualizations aim to uncover patterns in visitor behavior and identify trends in yearly and monthly growth.
+
+**Description:**"Market Basket Analysis" serves as a valuable technique in the realm of data mining and machine learning, aiming to unveil correlations or associations between items frequently purchased together by customers. Its primary goal is to provide businesses with insights into customer purchasing behavior, enabling the identification of patterns that can be strategically harnessed for purposes such as targeted product recommendations, cross-selling initiatives, and the optimization of store layouts.
+
+At the core of executing Market Basket Analysis lies the renowned "Apriori algorithm." Widely acclaimed, this algorithm operates through a meticulous two-step process. Firstly, it identifies frequent itemsets within a transaction dataset, and secondly, it generates association rules based on these findings. This sophisticated approach equips businesses with a nuanced understanding of customer-product interactions, facilitating well-informed decision-making by leveraging the discovered patterns.
+
+**Skills:** Exploratory Data Analysis,data cleaning, analysis, modeling, and data visualization
+
+**Technology:** Python, Google colab
+
+**Results:** As the project unfolds, it aspires to deliver not just visualizations but a narrative that unravels the intricate fabric of freeCodeCamp.org forum page views.
 
 ## Education
 #### Indian Institute of Science Education and Research,Thiruvanthampuram,Kerala: 
