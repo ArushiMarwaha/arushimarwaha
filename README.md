@@ -51,15 +51,17 @@ At the core of executing Market Basket Analysis lies the renowned "Apriori algor
 
 **Goal:** The primary goal of this project is to visualize time series data using various chart types, including line charts, bar charts, and box plots. Leveraging Pandas, Matplotlib, and Seaborn, the objective is to analyze and illustrate the number of daily page views on the freeCodeCamp.org forum from May 9, 2016, to December 3, 2019. The visualizations aim to uncover patterns in visitor behavior and identify trends in yearly and monthly growth.
 
-**Description:**"Market Basket Analysis" serves as a valuable technique in the realm of data mining and machine learning, aiming to unveil correlations or associations between items frequently purchased together by customers. Its primary goal is to provide businesses with insights into customer purchasing behavior, enabling the identification of patterns that can be strategically harnessed for purposes such as targeted product recommendations, cross-selling initiatives, and the optimization of store layouts.
+**Description:** In the initial phases, the project entails the adept use of Pandas for importing data from the designated "fcc-forum-pageviews.csv" file, with a subsequent focus on data refinement. This involves meticulous cleaning processes, excluding days where page views fall within the extreme 2.5% tails of the dataset. The subsequent stages unfold through the orchestration of distinctive functions. The draw_line_plot function, fueled by Matplotlib, meticulously crafts a line chart reminiscent of "examples/Figure_1.png," crowned with the title "Daily freeCodeCamp Forum Page Views 5/2016-12/2019." The x-axis elegantly traces the timeline with the label "Date," while the y-axis portrays the essence of the data through the label "Page Views."
 
-At the core of executing Market Basket Analysis lies the renowned "Apriori algorithm." Widely acclaimed, this algorithm operates through a meticulous two-step process. Firstly, it identifies frequent itemsets within a transaction dataset, and secondly, it generates association rules based on these findings. This sophisticated approach equips businesses with a nuanced understanding of customer-product interactions, facilitating well-informed decision-making by leveraging the discovered patterns.
+The narrative deepens with the introduction of the draw_bar_plot function, an artisanal creation for shaping a bar chart akin to "examples/Figure_2.png." This visualization encapsulates the average daily page views per month, intricately grouped by year. A legend, bedecked with month labels, adorns the chart under the title "Months." Meanwhile, the x-axis gracefully unfolds the passage of time, labeled as "Years," while the y-axis quantifies the essence in terms of "Average Page Views."
+
+The grand finale unfolds with the draw_box_plot function, a magnum opus in Seaborn, orchestrating the symphony of two adjacent box plots akin to "examples/Figure_3.png." The first, titled "Year-wise Box Plot (Trend)," paints a vivid picture of the data distribution within each year. Its counterpart, "Month-wise Box Plot (Seasonality)," unravels the intricacies of data distribution over time, starting each year from January. In both, meticulous attention ensures accurate labeling of the x and y axes.
 
 **Skills:** Exploratory Data Analysis,data cleaning, analysis, modeling, and data visualization
 
 **Technology:** Python, Google colab
 
-**Results:** As the project unfolds, it aspires to deliver not just visualizations but a narrative that unravels the intricate fabric of freeCodeCamp.org forum page views.
+**Results:** As the project unfolds, it aspires to deliver not just visualizations but a narrative that unravels the intricate fabric of freeCodeCamp.org forum page views. The results are poised to offer nuanced insights into visitor behavior.
 
 ## Education
 #### Indian Institute of Science Education and Research,Thiruvanthampuram,Kerala: 
