@@ -13,25 +13,8 @@ I would be glad to connect!
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Table of Contents
-- [About]()
-- [Portfolio Projects]()
-  - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie]()
-    - [Tech Store Sales Analysis]()  
-  - SQL
-    - [Covid 19 Data Exploration]()
-    - [Nashville Housing Data Cleaning]()
-  - R
-    - [Legendary Pokémon Analysis (Study Project)]()
-  - Excel / Google Sheets
-  - Power BI
+
   
-
-
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
