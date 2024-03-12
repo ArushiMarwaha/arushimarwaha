@@ -31,6 +31,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Mumbai leads in revenue at 669M, followed by Bangalore, Hyderabad, and Delhi. AtliQ Exotica excels with 320M revenue, a 3.62 rating, 57% occupancy, and a 24.4% cancellation rate. Week 24 records the highest revenue at 139.6M. Delhi dominates in both occupancy and rating, while AtliQ faces a substantial 298M loss due to cancellations. Elite rooms, though highly booked, experience a higher cancellation rate.
 
+### Market Basket Analysis with Machine Learning using Python
+**Code:** [`Sales Analysis Project`](https://github.com/ArushiMarwaha/Market_Basket_Analysis_in_Python/tree/main)
+
+**Goal:** Conduct comprehensive market basket analysis on the Grocery dataset using sophisticated association rule mining algorithms, particularly Apriori, to unearth meaningful relationships between products and extract valuable insights.
+
+**Description:**"Market Basket Analysis" serves as a valuable technique in the realm of data mining and machine learning, aiming to unveil correlations or associations between items frequently purchased together by customers. Its primary goal is to provide businesses with insights into customer purchasing behavior, enabling the identification of patterns that can be strategically harnessed for purposes such as targeted product recommendations, cross-selling initiatives, and the optimization of store layouts.
+
+At the core of executing Market Basket Analysis lies the renowned "Apriori algorithm." Widely acclaimed, this algorithm operates through a meticulous two-step process. Firstly, it identifies frequent itemsets within a transaction dataset, and secondly, it generates association rules based on these findings. This sophisticated approach equips businesses with a nuanced understanding of customer-product interactions, facilitating well-informed decision-making by leveraging the discovered patterns.
+
+**Skills:** Exploratory Data Analysis,Data Mining,Machine learning and data visualization
+
+**Technology:** Python, Google colab
+
+**Results:** Implementing the generated association rules has enabled us to strategically enhance various aspects of our retail operations. By optimizing product placement, implementing cross-selling strategies, and tailoring promotions based on identified patterns, we have successfully elevated the shopping experience for customers. This data-driven approach has not only increased customer engagement but has also translated into a significant boost in sales, showcasing the tangible impact of informed retail strategies on our overall business performance.
+
 
 ## Education
 #### Indian Institute of Science Education and Research,Thiruvanthampuram,Kerala: 
